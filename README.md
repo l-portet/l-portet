@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Hi, I'm [Lucas](https://lucasportet.com). I'm a full stack developer from France 🇫🇷.
+Hi, I'm [Lucas](https://lucasportet.com). I'm a developer & growth from France 🇫🇷.
 
 If you found value in something I have created or just want to say hello, feel free to drop me a line [@lucasportet](https://twitter.com/lucasportet).
 
-Currently working at [Scale Dynamics](https://scaledynamics.io).
+Currently working at [Deux.io](https://deux.io).
